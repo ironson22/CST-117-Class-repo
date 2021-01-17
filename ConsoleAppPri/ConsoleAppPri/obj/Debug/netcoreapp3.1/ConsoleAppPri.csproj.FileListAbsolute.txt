@@ -1,0 +1,13 @@
+C:\Users\vince\Documents\CST-117\ConsoleAppPri\ConsoleAppPri\bin\Debug\netcoreapp3.1\ConsoleAppPri.exe
+C:\Users\vince\Documents\CST-117\ConsoleAppPri\ConsoleAppPri\bin\Debug\netcoreapp3.1\ConsoleAppPri.deps.json
+C:\Users\vince\Documents\CST-117\ConsoleAppPri\ConsoleAppPri\bin\Debug\netcoreapp3.1\ConsoleAppPri.runtimeconfig.json
+C:\Users\vince\Documents\CST-117\ConsoleAppPri\ConsoleAppPri\bin\Debug\netcoreapp3.1\ConsoleAppPri.runtimeconfig.dev.json
+C:\Users\vince\Documents\CST-117\ConsoleAppPri\ConsoleAppPri\bin\Debug\netcoreapp3.1\ConsoleAppPri.dll
+C:\Users\vince\Documents\CST-117\ConsoleAppPri\ConsoleAppPri\bin\Debug\netcoreapp3.1\ConsoleAppPri.pdb
+C:\Users\vince\Documents\CST-117\ConsoleAppPri\ConsoleAppPri\obj\Debug\netcoreapp3.1\ConsoleAppPri.csprojAssemblyReference.cache
+C:\Users\vince\Documents\CST-117\ConsoleAppPri\ConsoleAppPri\obj\Debug\netcoreapp3.1\ConsoleAppPri.AssemblyInfoInputs.cache
+C:\Users\vince\Documents\CST-117\ConsoleAppPri\ConsoleAppPri\obj\Debug\netcoreapp3.1\ConsoleAppPri.AssemblyInfo.cs
+C:\Users\vince\Documents\CST-117\ConsoleAppPri\ConsoleAppPri\obj\Debug\netcoreapp3.1\ConsoleAppPri.csproj.CoreCompileInputs.cache
+C:\Users\vince\Documents\CST-117\ConsoleAppPri\ConsoleAppPri\obj\Debug\netcoreapp3.1\ConsoleAppPri.dll
+C:\Users\vince\Documents\CST-117\ConsoleAppPri\ConsoleAppPri\obj\Debug\netcoreapp3.1\ConsoleAppPri.pdb
+C:\Users\vince\Documents\CST-117\ConsoleAppPri\ConsoleAppPri\obj\Debug\netcoreapp3.1\ConsoleAppPri.genruntimeconfig.cache

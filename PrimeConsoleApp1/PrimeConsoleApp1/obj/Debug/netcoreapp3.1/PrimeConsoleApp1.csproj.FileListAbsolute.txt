@@ -1,0 +1,13 @@
+C:\Users\vince\Documents\CST-117\PrimeConsoleApp1\PrimeConsoleApp1\bin\Debug\netcoreapp3.1\PrimeConsoleApp1.exe
+C:\Users\vince\Documents\CST-117\PrimeConsoleApp1\PrimeConsoleApp1\bin\Debug\netcoreapp3.1\PrimeConsoleApp1.deps.json
+C:\Users\vince\Documents\CST-117\PrimeConsoleApp1\PrimeConsoleApp1\bin\Debug\netcoreapp3.1\PrimeConsoleApp1.runtimeconfig.json
+C:\Users\vince\Documents\CST-117\PrimeConsoleApp1\PrimeConsoleApp1\bin\Debug\netcoreapp3.1\PrimeConsoleApp1.runtimeconfig.dev.json
+C:\Users\vince\Documents\CST-117\PrimeConsoleApp1\PrimeConsoleApp1\bin\Debug\netcoreapp3.1\PrimeConsoleApp1.dll
+C:\Users\vince\Documents\CST-117\PrimeConsoleApp1\PrimeConsoleApp1\bin\Debug\netcoreapp3.1\PrimeConsoleApp1.pdb
+C:\Users\vince\Documents\CST-117\PrimeConsoleApp1\PrimeConsoleApp1\obj\Debug\netcoreapp3.1\PrimeConsoleApp1.csprojAssemblyReference.cache
+C:\Users\vince\Documents\CST-117\PrimeConsoleApp1\PrimeConsoleApp1\obj\Debug\netcoreapp3.1\PrimeConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\vince\Documents\CST-117\PrimeConsoleApp1\PrimeConsoleApp1\obj\Debug\netcoreapp3.1\PrimeConsoleApp1.AssemblyInfo.cs
+C:\Users\vince\Documents\CST-117\PrimeConsoleApp1\PrimeConsoleApp1\obj\Debug\netcoreapp3.1\PrimeConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\vince\Documents\CST-117\PrimeConsoleApp1\PrimeConsoleApp1\obj\Debug\netcoreapp3.1\PrimeConsoleApp1.dll
+C:\Users\vince\Documents\CST-117\PrimeConsoleApp1\PrimeConsoleApp1\obj\Debug\netcoreapp3.1\PrimeConsoleApp1.pdb
+C:\Users\vince\Documents\CST-117\PrimeConsoleApp1\PrimeConsoleApp1\obj\Debug\netcoreapp3.1\PrimeConsoleApp1.genruntimeconfig.cache

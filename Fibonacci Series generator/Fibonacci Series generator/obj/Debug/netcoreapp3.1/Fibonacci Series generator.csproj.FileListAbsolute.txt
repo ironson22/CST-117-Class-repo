@@ -1,0 +1,13 @@
+C:\Users\vince\Documents\CST-117\Fibonacci Series generator\Fibonacci Series generator\bin\Debug\netcoreapp3.1\Fibonacci Series generator.exe
+C:\Users\vince\Documents\CST-117\Fibonacci Series generator\Fibonacci Series generator\bin\Debug\netcoreapp3.1\Fibonacci Series generator.deps.json
+C:\Users\vince\Documents\CST-117\Fibonacci Series generator\Fibonacci Series generator\bin\Debug\netcoreapp3.1\Fibonacci Series generator.runtimeconfig.json
+C:\Users\vince\Documents\CST-117\Fibonacci Series generator\Fibonacci Series generator\bin\Debug\netcoreapp3.1\Fibonacci Series generator.runtimeconfig.dev.json
+C:\Users\vince\Documents\CST-117\Fibonacci Series generator\Fibonacci Series generator\bin\Debug\netcoreapp3.1\Fibonacci Series generator.dll
+C:\Users\vince\Documents\CST-117\Fibonacci Series generator\Fibonacci Series generator\bin\Debug\netcoreapp3.1\Fibonacci Series generator.pdb
+C:\Users\vince\Documents\CST-117\Fibonacci Series generator\Fibonacci Series generator\obj\Debug\netcoreapp3.1\Fibonacci Series generator.csprojAssemblyReference.cache
+C:\Users\vince\Documents\CST-117\Fibonacci Series generator\Fibonacci Series generator\obj\Debug\netcoreapp3.1\Fibonacci Series generator.AssemblyInfoInputs.cache
+C:\Users\vince\Documents\CST-117\Fibonacci Series generator\Fibonacci Series generator\obj\Debug\netcoreapp3.1\Fibonacci Series generator.AssemblyInfo.cs
+C:\Users\vince\Documents\CST-117\Fibonacci Series generator\Fibonacci Series generator\obj\Debug\netcoreapp3.1\Fibonacci Series generator.csproj.CoreCompileInputs.cache
+C:\Users\vince\Documents\CST-117\Fibonacci Series generator\Fibonacci Series generator\obj\Debug\netcoreapp3.1\Fibonacci Series generator.dll
+C:\Users\vince\Documents\CST-117\Fibonacci Series generator\Fibonacci Series generator\obj\Debug\netcoreapp3.1\Fibonacci Series generator.pdb
+C:\Users\vince\Documents\CST-117\Fibonacci Series generator\Fibonacci Series generator\obj\Debug\netcoreapp3.1\Fibonacci Series generator.genruntimeconfig.cache
