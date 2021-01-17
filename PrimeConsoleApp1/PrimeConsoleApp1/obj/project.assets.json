@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vince\\Documents\\CST-117\\PrimeConsoleApp1\\PrimeConsoleApp1\\PrimeConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\vince\\Documents\\CST-117\\Repos\\PrimeConsoleApp1\\PrimeConsoleApp1\\PrimeConsoleApp1.csproj",
       "projectName": "PrimeConsoleApp1",
-      "projectPath": "C:\\Users\\vince\\Documents\\CST-117\\PrimeConsoleApp1\\PrimeConsoleApp1\\PrimeConsoleApp1.csproj",
+      "projectPath": "C:\\Users\\vince\\Documents\\CST-117\\Repos\\PrimeConsoleApp1\\PrimeConsoleApp1\\PrimeConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\vince\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vince\\Documents\\CST-117\\PrimeConsoleApp1\\PrimeConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\vince\\Documents\\CST-117\\Repos\\PrimeConsoleApp1\\PrimeConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
