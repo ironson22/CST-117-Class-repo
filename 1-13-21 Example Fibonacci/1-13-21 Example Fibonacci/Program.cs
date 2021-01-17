@@ -6,7 +6,7 @@ namespace _1_13_21_Example_Fibonacci
     {
         public static int Fibonacci(int n)//this is a declaration of a function and a integar called "n"
         {
-            if (n <= 1)
+            if (n <= 1)//this is a simplified version of the calculation for the fibonacci sequence
                 return n;
             else
                 return Fibonacci(n - 1) + Fibonacci(n - 2);
@@ -29,7 +29,7 @@ namespace _1_13_21_Example_Fibonacci
             if (m < 0)
                 Console.Write("Fibonacci number is not defined");
             else
-                Console.Write(Fibonacci(m));
+                Console.Write(Fibonacci(m)); //this calls the function with the new integar created from the user input
             //    for (int i = 0; i < 10; i++) {
             //        Console.WriteLine(Fibonacci(i));//this line called the function that was created above that was given a parameter that is created from the for loop
             //   }

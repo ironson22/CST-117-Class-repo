@@ -6,8 +6,4 @@
     <RootNamespace>_1_13_21_Example_Fibonacci</RootNamespace>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Compile Include="C:\Users\vince\Documents\CST-117\Repos\1-17-21-nth-number-fibonnoci\in-class-assignment-2.cs" Link="in-class-assignment-2.cs" />
-  </ItemGroup>
-
 </Project>
